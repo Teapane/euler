@@ -21,6 +21,4 @@ def palindrome(num)
   end
 end
 
-#906609
-
-
+# palindromic_triplet(999) => 906609
